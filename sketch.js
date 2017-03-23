@@ -12,7 +12,7 @@ function draw(){
     background(0);
     display();
     move();
-    //bounce();
+    bounce();
 }
 
 function display(){    
